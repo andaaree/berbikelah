@@ -18,14 +18,79 @@ include("head.php");
     </div>
 </section>
 <!-- End Banner Area -->
+<section class="sample-text-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 align-items-left">
+                <div class="d-flex flex-column">
+                    <h1><b>Selamat Datang di</b></h1>
+                    <h3 class="stroked-font">BERBIKELAH 2020</h3><br>
+                    <p class="sample-text">
+                        Every avid independent filmmaker has <b>Bold</b> about making that <i>Italic</i>
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-5 ml-3 align-items-right">
+                <div class="d-flex flex-column">
+                    <div class="banner-2">
+                        <img src="img/banner-2.png" width="450px" height="450px">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Start Service Area -->
+<section class="carousel-area section-gap relative">
+    <div class="overlay overlay-bg"></div>
+    <div class="container">
+        <div class="row justify-content-end">
+            <div class="col-lg-6 col-md-9 relative">
+                <div class="active-exprience-carousel">
+                    <div class="item">
+                        
+                    </div>
+                    <div class="item">
+                        <h3>From the root <br> of experience We dig out the best talent</h3>
+                        <p>inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards – especially in the workplace. That’s why it’s crucial that, as women.</p>
+                    </div>
+                    <div class="item">
+                        <h3>From the root <br> of experience We dig out the best talent</h3>
+                        <p>inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards – especially in the workplace. That’s why it’s crucial that, as women.</p>
+                    </div>
+                </div>
+                <div class="carousel-trigger">
+                    <div class="next-trigger"><span class="lnr lnr-arrow-right"></span></div>
+                    <div class="prev-trigger"><span class="lnr lnr-arrow-left"></span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Service Area -->
 <!-- Start Projects Area -->
 <section class="service-area">
     <div class="container">
         <div class="row">
-            <div class="col-lg-3 col-sm-6">
+            <!--  Title -->
+            <div class="col-lg-12">
+                <h2>Doorprize</h2>
+            </div>
+            <div class="col-md-4 col-sm-6">
                 <div class="single-service d-flex flex-column align-items-center">
                     <div class="icon">
-                        <span class="lnr lnr-screen"></span>
+                        <img src="img/jersey-doorprize.png">
+                    </div>
+                    <div class="desc mt-30">
+                        <h4 class="mb-10">Jersey</h4>
+                        <p>Lorem ipsum dolor sit ametcons ec tetur adipisicing elit.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="single-service d-flex flex-column align-items-center">
+                    <div class="icon">
+                    <img src="img/gopro.png">
                     </div>
                     <div class="desc mt-30">
                         <h4 class="mb-10">Vector Illustration</h4>
@@ -33,10 +98,10 @@ include("head.php");
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-sm-6">
+            <div class="col-md-4 col-sm-6">
                 <div class="single-service d-flex flex-column align-items-center">
                     <div class="icon">
-                        <span class="lnr lnr-picture"></span>
+                    <img src="img/helm.png">
                     </div>
                     <div class="desc mt-30">
                         <h4 class="mb-10">Vector Illustration</h4>
@@ -44,10 +109,10 @@ include("head.php");
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-sm-6">
+            <div class="col-md-4 col-sm-6">
                 <div class="single-service d-flex flex-column align-items-center">
                     <div class="icon">
-                        <span class="lnr lnr-laptop-phone"></span>
+                    <img src="img/mtb.png">
                     </div>
                     <div class="desc mt-30">
                         <h4 class="mb-10">Vector Illustration</h4>
@@ -55,10 +120,21 @@ include("head.php");
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-sm-6">
+            <div class="col-md-4 col-sm-6">
                 <div class="single-service d-flex flex-column align-items-center">
                     <div class="icon">
-                        <span class="lnr lnr-gift"></span>
+                    <img src="img/kacamata.png">
+                    </div>
+                    <div class="desc mt-30">
+                        <h4 class="mb-10">Vector Illustration</h4>
+                        <p>Lorem ipsum dolor sit ametcons ec tetur adipisicing elit.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="single-service d-flex flex-column align-items-center">
+                    <div class="icon">
+                    <img src="img/portabike.png">
                     </div>
                     <div class="desc mt-30">
                         <h4 class="mb-10">Vector Illustration</h4>

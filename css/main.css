@@ -1977,7 +1977,7 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    widtbann: 100%;
+    width: 100%;
     z-index: 9;
 }
 
@@ -2208,7 +2208,7 @@ nav a:hover {
 }
 
 .carousel-area {
-    background: url(../img/c-bg.jpg) no-repeat center center/cover;
+    background: url(../img/slider-bg.jpg) no-repeat center center/cover;
 }
 
 .carousel-area .overlay-bg {
@@ -2315,6 +2315,34 @@ nav a:hover {
     margin-bottom: 20px;
 }
 
+
+/*
+css stroke font
+*/
+
+.stroked-font {
+    color: white;
+    font-size: 40px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: red;
+}
+
+
+/* css */
+
+.whitespan {}
+
+. banner-2 {
+    width: 300px;
+    height: 300px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    border-radius: 3px;
+}
+
 .service-area {
     background: #f9faff;
     padding: 90px 0 120px 0;
@@ -2326,14 +2354,13 @@ nav a:hover {
 }
 
 .single-service .icon {
-    width: 130px;
-    height: 130px;
+    width: 300px;
+    height: 300px;
     display: -webkit-box;
     display: -webkit-flex;
     display: -moz-flex;
     display: -ms-flexbox;
     display: flex;
-    background: #fff;
     border-radius: 3px;
 }
 
