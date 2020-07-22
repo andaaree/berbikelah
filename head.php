@@ -43,7 +43,7 @@
                     <div class="main-menubar d-flex align-items-center">
                         <nav class="hide">
                             <a href="index.php">Home</a>
-                            <a href="zona.php">Register</a>
+                            <a href="register.php">Register</a>
                         </nav>
                         <div class="menu-bar"><span class="lnr lnr-menu"></span></div>
                     </div>

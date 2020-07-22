@@ -6,7 +6,6 @@ include("head.php");
         <div class="container border-top-generic">
             <h3 class="about-title mb-70">Form Registrasi</h3>
             <p>
-                <a href="zona.php" class="genric-btn gray circle"><i class="fa fa-arrow-left"></i> Kembali</a>
                 <a href="index.php" class="genric-btn gray circle"><i class="fa fa-home"></i> Home</a>
             </p>
             <div class="row">

@@ -12,7 +12,7 @@ include("head.php");
             <div class="row">
                 <div class="col-lg-8">
                     <div class="card card-primary">
-                        <div class="card-header">   
+                        <div class="card-header">
                             <h3 class="card-title">Syarat dan Ketentuan</h3>
                         </div>
                         <!-- /.card-header -->

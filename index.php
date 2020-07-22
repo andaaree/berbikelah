@@ -10,7 +10,7 @@ include("head.php");
                 <div class="banner-content">
                     <h1>BERBIKELAH <br>2020</h1>
                     <p class="text-white">
-                        <a href="zona.php" class="genric-btn primary circle">DAFTAR SEKARANG</a>
+                        <a href="register.php" class="genric-btn primary circle">DAFTAR SEKARANG</a>
                     </p>
                 </div>
             </div>
