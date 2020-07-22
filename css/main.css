@@ -1977,7 +1977,7 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
+    widtbann: 100%;
     z-index: 9;
 }
 
@@ -2094,11 +2094,11 @@ nav a:hover {
 }
 
 .banner-area {
-    background: url(../img/banner-bg.jpg) no-repeat center center/cover;
+    background: url(../img/banner.jpg) no-repeat center center/cover;
 }
 
 .banner-area .overlay-bg {
-    background: rgba(0, 0, 0, 0.75);
+    background: rgba(0, 0, 0, 0.15);
 }
 
 @media (max-width: 767px) {

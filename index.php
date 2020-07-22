@@ -8,9 +8,9 @@ include("head.php");
         <div class="row fullscreen align-items-center justify-content-center">
             <div class="col-lg-12">
                 <div class="banner-content">
-                    <h1>BERBIKELAH <br>2020</h1>
+                    <h1>&nbsp; <br>&nbsp;</h1>
                     <p class="text-white">
-                        <a href="register.php" class="genric-btn primary circle">DAFTAR SEKARANG</a>
+                        &Tab;<a href="register.php" class="genric-btn primary circle">DAFTAR SEKARANG</a>
                     </p>
                 </div>
             </div>

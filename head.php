@@ -38,7 +38,7 @@
             <div class="header-wrap">
                 <div class="header-top d-flex justify-content-between align-items-center">
                     <div class="logo">
-                        <a href="index.php"><img src="img/bicycle-icon.png" alt=""></a>
+                        <a href="index.php"><img src="img/logo.png" width="50px" height="50px" alt=""></a>
                     </div>
                     <div class="main-menubar d-flex align-items-center">
                         <nav class="hide">
