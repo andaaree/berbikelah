@@ -3,6 +3,7 @@ include("head.php");
 ?>
     <!-- About Generic Start -->
     <section class="about-generic-area">
+        <div></div>
         <div class="container border-top-generic">
             <h3 class="about-title mb-70">Form Registrasi</h3>
             <p>
@@ -32,6 +33,21 @@ include("head.php");
                             <div class="form-group">
                                 <label for="exampleInputEmail1">No HP</label>
                                 <input type="tel" id="" name="phone" class="form-control" placeholder="No HP">
+                            </div>
+                            <label>Jenis Kelamin :</label>
+                            <div class="form-group-sm d-flex">
+                                <label class="primary-radio">
+                                    <input id="jkel1" type="radio" name="gender">
+                                    <label for="jkel1"></label>
+                                </label>
+                                <label for="zone1"><p>&nbsp; Laki-laki</p></label>
+                            </div>
+                            <div class="form-group-sm d-flex">
+                                <label class="primary-radio">
+                                    <input id="jkel2" type="radio" name="gender" >
+                                    <label for="jkel2"></label>
+                                </label>
+                                <label for="zone1"><p>&nbsp; Perempuan</p></label>
                             </div>
                             <div class="form-group-sm d-flex">
                                 <div class="primary-checkbox">

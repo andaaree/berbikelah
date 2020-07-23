@@ -51,6 +51,40 @@ include("head.php");
                                     Peserta diberi Kebebasan menggunakan jenis sepeda apapun untuk mengikuti kegiatan <color class="bold">Berbikelah2020#Virtualfunbike</color>.
                                     </td>
                                 </tr>
+                                <tr>
+                                    <td class="ctn">
+                                        <h3><b>5.</b></h3>
+                                    </td>
+                                    <td>
+                                    Peserta wajib untuk mengikuti <color class="bold">Protokol Kesehatan</color> .
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="ctn">
+                                        <h3><b>6.</b></h3>
+                                    </td>
+                                    <td>
+                                    Peserta terbuka untuk <color class="bold">umum</color> .
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="ctn">
+                                        <h3><b>7.</b></h3>
+                                    </td>
+                                    <td>
+                                    Pelaksanaan kegiatan pada 23 Agustus 2020 dengan waktu dari <color class="bold">06:00 WIB</color> s/d <color class="bold">17:00 WIB</color> .<br>
+                                    Bagi yang terlambat, Tidak berkesempatan untuk diundi .<br>
+                                    Keputusan panitia bersifat mutlak dan tidak bisa diganggu gugat .
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="ctn">
+                                        <h3><b>8.</b></h3>
+                                    </td>
+                                    <td>
+                                    Peserta wajib untuk follow akun Instagram official event-kita.com .
+                                    </td>
+                                </tr>
                             </table>
                         </div>
                         <!-- /.card-body -->
