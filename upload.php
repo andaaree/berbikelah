@@ -12,16 +12,24 @@ include("head.php");
                 <div class="col-lg-8 align-content-center">
                     <div class="card card-primary">
                         <div class="card-header d-flex flex-column align-items-center">
-                            <h3 class="card-title">QR Code Scanner</h3>
+                            <h3 class="card-title">UPLOAD JARAK #Virtulfunbike</h3>
                         </div>
                         <!-- /.card-header -->
                         <!-- form start -->
                         <div class="card-body">
                             <div class="single d-flex flex-column align-items-center">
-                                <h6>
-                                    Scan QR Code terdekat :
-                                </h6>
-
+                                <p>
+                                    Upload hasil screenshot <color class="bold">Strava / Relive </color> mu di bawah ini :
+                                </p>
+                                <label class="scan">
+                                <input id="scan1" type="file" name="scan" allow="image/*">
+                                <div class="icon">
+                                    <span class="lnr lnr-upload "></span>
+                                </div>
+                                <br>
+                                <p>
+                                </p>
+                            </label>
                             </div>
                         </div>
                         <!-- /.card-body -->
@@ -29,9 +37,9 @@ include("head.php");
                             <br>
                             </br>
                             <label class="scan">
-                                <input id="scan1" type="file" name="scan" allow="image/*" capture="camera">
+                                <input id="scan1" type="file" name="scan" allow="image/*">
                                 <div class="icon">
-                                    <span class="lnr lnr-camera"></span>
+                                    <span class="lnr lnr-upload "></span>
                                 </div>
                             </label>
                         </div>
