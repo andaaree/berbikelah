@@ -2372,6 +2372,12 @@ css stroke font
     border-radius: 3px;
 }
 
+.single img {
+    margin: auto;
+    width: 50%;
+    height: 70%;
+}
+
 .service-area {
     background: url(../img/bg_web_3.png) no-repeat center center/cover;
     padding: 90px 0 90px 0;

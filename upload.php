@@ -23,13 +23,15 @@ include("head.php");
                                 </p>
                                 <label class="scan">
                                 <input id="scan1" type="file" name="scan" allow="image/*">
-                                <div class="icon">
+                                <div class="icon d-flex align-items-center">
                                     <span class="lnr lnr-upload "></span>
                                 </div>
+                                </label>
                                 <br>
                                 <p>
+                                    Hasil upload terakhir kamu :
                                 </p>
-                            </label>
+                                    <img src="img/user/">
                             </div>
                         </div>
                         <!-- /.card-body -->
@@ -37,9 +39,8 @@ include("head.php");
                             <br>
                             </br>
                             <label class="scan">
-                                <input id="scan1" type="file" name="scan" allow="image/*">
                                 <div class="icon">
-                                    <span class="lnr lnr-upload "></span>
+                                    <span class="lnr lnr-smile "></span>
                                 </div>
                             </label>
                         </div>
