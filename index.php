@@ -81,7 +81,7 @@ include("head.php");
             <div class="col-lg-4 col-sm-6">
                 <div class="single-service d-flex flex-column align-items-center">
                     <div class="icon">
-                    <img src="img/gopro.png">
+                    <img src="img/cam.png">
                     </div>
                     <div class="desc mt-30">
                         <h4 class="mb-10">Action Cam</h4>
