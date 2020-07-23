@@ -84,7 +84,7 @@ include("head.php");
                     <img src="img/gopro.png">
                     </div>
                     <div class="desc mt-30">
-                        <h4 class="mb-10">Kamera GoPro</h4>
+                        <h4 class="mb-10">Action Cam</h4>
                     </div>
                 </div>
             </div>
