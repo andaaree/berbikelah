@@ -27,7 +27,7 @@
     <link rel="stylesheet" href="css/nice-select.css">
     <link rel="stylesheet" href="css/magnific-popup.css">
     <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/main.css?v=0.2.1">
     <link rel="stylesheet" href="js/sweetalert2/sweetalert2.min.css">
 </head>
 

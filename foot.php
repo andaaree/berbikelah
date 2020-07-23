@@ -1,6 +1,19 @@
 <!-- Strat Footer Area -->
 <footer class="section-gap">
     <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-sm-6">
+                <div class="single-footer-widget">
+                    <h6 class="text-white text-uppercase mb-20">Navigation</h6>
+                    <ul class="footer-nav">
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="register.php">Registrasi</a></li>
+                        <li><a href="tna.php">Syarat & Ketentuan</a></li>
+                        <li><a href="confirm.php">Konfirmasi Pembayaran</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
         <div class="footer-bottom d-flex justify-content-between align-items-center flex-wrap">
             <p class="footer-text m-0">Copyright &copy; 2017 All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="" target="_blank">Developer</a></p>
             <div class="footer-social d-flex align-items-center">

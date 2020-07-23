@@ -36,8 +36,8 @@ include("head.php");
                                 <br>
                                 <h4>Konfirmasi:</h4>
                                 <br>
-                                <p><strong><a href="https://wa.me/6282136417733?text=%5BKONFIRMASI+PEMBAYARAN%5D%0D%0A%0D%0ANama+%3A%0D%0ANo.+Rek.+Pengirim+%3A%0D%0ARek.+Tujuan+%3A+BCA%2FMandiri%0D%0AJumlah+Transfer+%3A%0D%0ATanggal+Pembayaran+%3A+2020-06-14">+6282136417733</a></strong> Lala</p>
-                                <p><strong><a href="https://wa.me/6282322277895?text=%5BKONFIRMASI+PEMBAYARAN%5D%0D%0A%0D%0ANama+%3A%0D%0ANo.+Rek.+Pengirim+%3A%0D%0ARek.+Tujuan+%3A+BCA%2FMandiri%0D%0AJumlah+Transfer+%3A%0D%0ATanggal+Pembayaran+%3A+2020-06-14">+6282322277895</a></strong> Desi</p>
+                                <p><strong><a href="https://wa.me/6282136417733?text=%5BKONFIRMASI+PEMBAYARAN+BERBIKELAH%5D%0D%0A%0D%0ANama+%3A%0D%0ANo.+Rek.+Pengirim+%3A%0D%0ARek.+Tujuan+%3A+BCA%2FMandiri%0D%0AJumlah+Transfer+%3A%0D%0ATanggal+Pembayaran+%3A+2020-06-14">+6282136417733</a></strong> Lala</p>
+                                <p><strong><a href="https://wa.me/6282322277895?text=%5BKONFIRMASI+PEMBAYARAN+BERBIKELAH%5D%0D%0A%0D%0ANama+%3A%0D%0ANo.+Rek.+Pengirim+%3A%0D%0ARek.+Tujuan+%3A+BCA%2FMandiri%0D%0AJumlah+Transfer+%3A%0D%0ATanggal+Pembayaran+%3A+2020-06-14">+6282322277895</a></strong> Dessy</p>
                                 <br>
                                 <p>Harap untuk <color class="bold">Konfirmasi</color> hanya di salah satu Contact Person saja.</p>
                                 <p>Terima Kasih !</p>
