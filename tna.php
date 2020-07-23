@@ -40,7 +40,7 @@ include("head.php");
                                         <h3><b>3.</b></h3>
                                     </td>
                                     <td>
-                                    Setelah melakukan registrasi dan pembayaran, Peserta akan mendapat konfirmasi balasan melalui WhatsApp yang berisi informasi pengambilan Starterpack, Nomor Peserta yang berfungsi sebagai Nomor Undian dan Link khusus yang digunakan untuk membaca <color class="bold">QR Code</color> Unik pada pelaksanaan kegiatan <color class="bold">Berbikelah2020#Virtualfunbike</color>.
+                                    Setelah melakukan registrasi dan pembayaran, Peserta akan mendapat konfirmasi balasan melalui WhatsApp yang berisi informasi pengambilan Starterpack, Nomor Peserta yang berfungsi sebagai Nomor Undian dan Link khusus yang digunakan untuk mengupload screenshot jarak tempuh sejauh 10 KM melalui aplikasi <color class="bold">Strava / Relive</color> pada pelaksanaan kegiatan <color class="bold">Berbikelah2020#Virtualfunbike</color>.
                                     </td>
                                 </tr>
                                 <tr>

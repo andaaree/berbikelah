@@ -24,18 +24,23 @@ include("head.php");
                                 <h4>Terima kasih atas partisipasinya !</h4>>
                                 <p>Registrasi sudah berhasil,</p>
                                 <p>segera lakukan pembayaran sebesar</p>
-                                <p><b>Rp. 100.000</b> untuk mendapatkan arahan selanjutnya</p>
-                                <br>
-                                <p>No. Rekening :</p>
-                                <p><b>123000 (A/N JARWO)</b> Mandiri</p>
-                                <p><b>654321 (A/N JUNET)</b> BCA</p>
+                                <p><b>Rp. 100.000</b></p>
+                                <p>Ke No. Rekening :</p>
+                                <p><b>135-000-111-2505 (A/N SRI HARTANTI Y.)</b> Mandiri</p>
+                                <p><b>854-508-2361 (A/N SRI HARTANTI Y.)</b> BCA</p>
+                                <p>untuk mendapatkan arahan selanjutnya</p>
                                 <br>
                                 <p>Bila sudah melakukan pembayaran,</p>
                                 <p> anda dapat menghubungi nomor dibawah</p>
                                 <p>dengan menyertakan bukti transfer</p>
                                 <br>
                                 <h4>Konfirmasi:</h4>
-                                <p><strong><a href="https://wa.me/62XXXXXXXXXXX?text=Konfirmasi%pembayaran%20A%2FN%20KARYOTO">+6281234567898</a></strong> Garong</p>
+                                <br>
+                                <p><strong><a href="https://wa.me/6282136417733?text=%5BKONFIRMASI+PEMBAYARAN%5D%0D%0A%0D%0ANama+%3A%0D%0ANo.+Rek.+Pengirim+%3A%0D%0ARek.+Tujuan+%3A+BCA%2FMandiri%0D%0AJumlah+Transfer+%3A%0D%0ATanggal+Pembayaran+%3A+2020-06-14">+6282136417733</a></strong> Lala</p>
+                                <p><strong><a href="https://wa.me/6282322277895?text=%5BKONFIRMASI+PEMBAYARAN%5D%0D%0A%0D%0ANama+%3A%0D%0ANo.+Rek.+Pengirim+%3A%0D%0ARek.+Tujuan+%3A+BCA%2FMandiri%0D%0AJumlah+Transfer+%3A%0D%0ATanggal+Pembayaran+%3A+2020-06-14">+6282322277895</a></strong> Desi</p>
+                                <br>
+                                <p>Harap untuk <color class="bold">Konfirmasi</color> hanya di salah satu Contact Person saja.</p>
+                                <p>Terima Kasih !</p>
                             </center>
                         </div>
                         <!-- /.card-body -->
