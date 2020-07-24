@@ -33,7 +33,7 @@ include("head.php");
             <div class="col-sm-5 ml-3 align-items-right">
                 <div class="d-flex flex-column">
                     <div class="banner-2 justify-content-start">
-                        <img src="img/banner-2.png" width="450px" height="450px">
+                        <img src="img/banner-2.webp" width="450px" height="450px">
                     </div>
                 </div>
             </div>

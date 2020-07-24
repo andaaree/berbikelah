@@ -2093,7 +2093,7 @@ nav a:hover {
 }
 
 .banner-area {
-    background: url(../img/banner-min-notext.jpg) no-repeat center center/cover;
+    background: url(../img/banner-min-notext.webp) no-repeat center center/cover;
 }
 
 .banner-area .overlay-bg {
@@ -2207,7 +2207,7 @@ nav a:hover {
 }
 
 .carousel-area {
-    background: url(../img/slider-bg.jpg) no-repeat center center/cover;
+    background: url(../img/slider-bg.webp) no-repeat center center/cover;
 }
 
 .carousel-area .overlay-bg {
