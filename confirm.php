@@ -24,7 +24,7 @@ include("head.php");
                                 <h4>Terima kasih atas partisipasinya !</h4>>
                                 <p>Registrasi sudah berhasil,</p>
                                 <p>segera lakukan pembayaran sebesar</p>
-                                <p><b>Rp. 100.000</b></p>
+                                <p><b>Rp. 100.024</b></p>
                                 <p>Ke No. Rekening :</p>
                                 <p><b>135-000-111-2505 (A/N SRI HARTANTI Y.)</b> Mandiri</p>
                                 <p><b>854-508-2361 (A/N SRI HARTANTI Y.)</b> BCA</p>

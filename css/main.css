@@ -1677,6 +1677,16 @@ h6 {
 
 /* Begin Custom Input*/
 
+.output {
+    margin: auto;
+    padding: 20% 0;
+    font-size: 80px;
+    width: 280px;
+    height: auto;
+    color: black;
+    text-align: center;
+}
+
 .scan input {
     position: absolute;
     opacity: 0;
